@@ -14,3 +14,6 @@ Add first, then commit!
 
 CD / LS / Then begin coding. 
 
+Pusing lines of code to improve the understanding. 
+
+
