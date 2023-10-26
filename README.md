@@ -12,3 +12,5 @@ Git commit and git push/ pull have been understood and mastered.
 
 Add first, then commit!
 
+CD / LS / Then begin coding. 
+
